@@ -1,2 +1,4 @@
-print 'something' 11
+<<<<<<< HEAD
+print 'something' 11111
+>>>>>>> master
 dear friend
